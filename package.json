@@ -1,0 +1,22 @@
+{
+  "name": "data-auto-scraping",
+  "version": "1.0.0",
+  "description": "Webscraping done on node capable of picking up updated vehicle data and saving them in a json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericjmachado/Data-auto-scraping.git"
+  },
+  "author": "ericjmachado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericjmachado/Data-auto-scraping/issues"
+  },
+  "homepage": "https://github.com/ericjmachado/Data-auto-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
