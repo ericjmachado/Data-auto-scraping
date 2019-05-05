@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ericjmachado/Data-auto-scraping#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "request-promise": "^4.2.4"
   }
 }
